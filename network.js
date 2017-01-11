@@ -1,5 +1,5 @@
 var http = require('http'),
-		urls = ['www.yahoo.com','www.yahoo.co.jp','www.amazon.ca'];
+		urls = ['www.yahoo.com','www.yahoo.co.jp','www.amazon.ca','www.microsoft.com'];
 
 		function fetchPage(url) {
 	var start = new Date();
